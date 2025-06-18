@@ -1,85 +1,125 @@
-setup.brother.com - Guide to Install a brother printer to my computer
-===============
+Garmin.com/express - Secure portal to Download and Install Garmin Express
+==========================================================================
 
-If you’ve got a new Brother printer or want to update your old one, installing the right driver from **setup.brother.com** is the first step. Getting the correct driver installed is key to making it work smoothly with your computer. Here’s a quick and simple guide to help you do it right away.
+Garmin.com/express is your go to tool for easily managing, updating, and registering your Garmin devices. Whether you're getting a fitness tracker up and running, refreshing maps on your GPS, or syncing your data, Garmin Express provides a straightforward, user-friendly interface to help you accomplish everything in no time. In this guide, you'll discover how to download, install, and set it up on both Windows and Mac systems.
 
 .. image:: get.png
    :alt: setup.brother.com
-   :target: https://fm.ci/?aHR0cHM6Ly9zZXR1cGJyb3RoZXJwcmludGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==  
+   :target:  
+
+Download Garmin Express from garmin.com/express
+-----------------------------------------------
+
+1. To get started, open up your favorite web browser, whether it’s Chrome, Edge, or Safari.
+
+2. Next, Go to: garmin.com/express
+
+3. Once the page is up and running, keep an eye out for a section that says “Download Garmin Express.”
+
+4. You’ll spot two buttons there:
+
+- Download for Windows
+- Download for Mac
+
+Just pick the one that matches your operating system!
+
+**For Windows Users:**
+
+1. Click Download for Windows.
+
+2. The download will kick off automatically, saving a file that will likely be named something like: ``GarminExpressInstaller.exe``.
+
+**For Mac Users:**
+
+1. Click Download for Mac.
+
+2. Once you click, the download will kick off, and you'll receive a file called: ``GarminExpress.dmg``
+
+3. Before you dive into the installation, just make sure that the file has been completely downloaded.  
+ - If you're on Windows, the .exe file should be about 130–150 MB in size.  
+ - For Mac users, the .dmg file will be roughly the same size.
+
+Step by Step guide to installing Garmin Express on both Windows and Mac
+-----------------------------------------------------------------------
+
+**On Windows: Installing Garmin Express**
+
+**Locate the Installer File**  
+
+1. To get started, open up File Explorer.  
+
+2. Next, head over to your Downloads folder (or wherever you saved that file).  
 
 
+3. Look for a file called ``GarminExpressInstaller.exe``.
 
+**Launch the Installer**  
 
-Here is how to install a Brother printer driver from setup.brother.com
-~~~~~~~~~~~~~~~~~~~~~~~~~
+1. To get started, just double-click the .exe file.  
 
-1. Find Your Printer Model
+2. You might see a User Account Control (UAC) pop-up that says:  
 
-First, go to **setup.brother.com** Once you're there, find the search box and type in your printer's model number (it'll look something like "DCP-L2550DW"). Then, just hit the search icon or press Enter. 
+  "Do you want to allow this app to make changes to your device?"  
 
+3. Go ahead and click Yes to proceed.
 
-2. Choose Your Computer's System
+**Install Garmin Express**
 
-Alright, so once you see your printer model show up
+To get started with Garmin Express, the setup window will pop up.
 
- You gotta tell it what kind of computer you're using – like if it's a Windows computer, a Mac (that's macOS), or something else.
+Here’s what you need to do:
 
- Then, pick the exact version you have. For example, if it's Windows, is it Windows 11? Or if it's a Mac, is it macOS Ventura?
+1. First, accept the terms and conditions by checking the box or clicking the “Agree” button.
+2. You might be prompted to select an installation folder. You can either stick with the default option or choose a different location if you prefer.
+3. Hit the Install button to kick off the installation process.
+4. Just hang tight for a moment while Garmin Express installs on your computer.
+5. Once it’s all set up, click on Launch Garmin Express (or Finish) to wrap things up.
 
-After that, just click OK to keep going.
+**First Launch**  
+- Garmin Express will launch automatically, or you can easily find it by:  
+Pressing Start, typing “Garmin Express,” and clicking to open it.
 
-.. image:: instructions 1.png
-   :alt: instructions image 1
+**On macOS: Installing Garmin Express**
 
-3. Download the Driver
+**Locate the DMG File**  
+- To get started, open Finder and navigate to your Downloads folder.  
+- Look for the file called ``GarminExpress.dmg``.
 
-You're looking for either the "Full Driver & Software Package" or just the "Printer Driver."
+**Open the Installer**  
+- Just double-click the .dmg file to kick off the installer.  
+- A window will pop up showing the Garmin Express icon along with a shortcut to the Applications folder.
 
+**Install the App**  
+1. To install Garmin Express, simply drag and drop its icon into the Applications folder.
 
- Sometimes, you might need to click on sections to open them up and see all the files inside.
+2. This action will copy the app into your Applications directory.
 
-.. image:: instructions 2.png
-   :alt: instructions image 2
+3. Once that's done, you can close the installer window and eject the disk image. 
 
- Important: Before you click "Download," make sure to read any notes that are written under the file. They might have important info for you!
+Just click the eject icon in the Finder sidebar, or you can right-click and select “Eject.”
 
-Finally, hit "Download" and save that file onto your computer. You're almost there!
+**Launch the App**  
+To get started, just open Finder, head over to Applications, and double-click on Garmin Express.
 
-.. image:: instructions 3.png
-   :alt: instructions image 3
+"Garmin Express is an app downloaded from the internet. Are you sure you want to open it?"  
+→ Click Open.
 
+**Grant Permissions (if needed)**  
+If your Mac is preventing the app from running due to its security settings, just head over to:
 
-4. Time to Install the Software
+System Settings → Privacy & Security → and click on **Allow Anyway** in the “Security” section.
 
-After the file is downloaded:
+Setup and Register Your Garmin Device
+-------------------------------------
 
- If you're on a Windows computer: Just find the file you downloaded and double-click it. If your computer asks you if you want to run it or say "Yes," go ahead and click that to start the process.
+1. To get started, connect your Garmin device to your computer with a USB cable.  
+2. Next, open Garmin Express, and it should automatically recognize your device.  
+3. Just click on "Add Device" and follow the setup instructions.  
+4. Finally, sign in or create a Garmin Connect account to finish the registration process.
 
+Update & Sync Device
+--------------------
 
-
- If you're on a Mac (macOS): You'll need to open the .dmg file you downloaded. After that, just follow the instructions that pop up on your screen to get everything set up.
-
-
-.. image:: instructions 4.png
-   :alt: instructions image 4
-
-
-5. Finish the Installation
-
-Just follow each step it tells you to do.
-
- It'll ask you how you want to connect your printer – either with a USB cable or through Wi-Fi. Pick whichever one you're using.
-
- Then, just let the setup finish up.
-
-
- Once it's all done, your printer should be good to go and ready for you to use!
-
-
-
-.. image:: instructions 5.png
-   :alt: instructions image 5
-
-6. Restart (If Needed)
-
-For some computer systems, you might need to restart your computer to really make sure everything's completely finalized after the installation. It's usually a good idea to just reboot your computer once you're all done installing.
+1. Once you've added your device, Garmin Express will show you any available map and software updates.  
+2. Just click on "Install All" (or select the specific updates you want) to get the latest firmware, maps, and data.  
+3. Make sure not to disconnect your device until all the updates have finished syncing!
