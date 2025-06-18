@@ -5,7 +5,7 @@ Garmin.com/express is your go to tool for easily managing, updating, and registe
 
 .. image:: get.png
    :alt: setup.brother.com
-   :target:  
+   :target: https://garminhelpcenter.readthedocs.io/en/latest/
 
 Download Garmin Express from garmin.com/express
 -----------------------------------------------
