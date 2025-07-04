@@ -5,7 +5,7 @@ Garmin.com/express is your go to tool for easily managing, updating, and registe
 
 .. image:: get.png
    :alt: setup.brother.com
-   :target: https://fm.ci/?aHR0cHM6Ly9nYXJtaW5leHByZXNzLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://garmin.crunch.help/en/garmin-express/how-to-download-garmin-express-on-your-devices-windows-and-mac
 
 Download Garmin Express from garmin.com/express
 -----------------------------------------------
